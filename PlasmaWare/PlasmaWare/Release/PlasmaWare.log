@@ -1,0 +1,62 @@
+﻿  main.cpp
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\menu.h(124,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\menu.h(138,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\menu.h(152,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\memory.h(50,35): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\ESP.h(112,17): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(7,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(7,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(8,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(8,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(9,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(9,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(10,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(10,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(28,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(29,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(30,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(31,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(70,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(71,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(78,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(79,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(82,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\Radar.h(83,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(27,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(28,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(28,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(30,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(88,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(91,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(91,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(93,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(93,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(112,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(134,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(134,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\AimBot.h(135,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(54,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(55,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(55,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(57,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(58,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(61,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(61,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(62,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(62,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(64,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(65,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(68,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(68,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(69,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(69,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(71,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\PlasmaWare\PlasmaWare\OutOfFovArrows.h(72,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  3 of 1473 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    20 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PlasmaWare.vcxproj -> D:\visual_studio_Projects_cpp\PlasmaWare\Release\PlasmaWare.exe
